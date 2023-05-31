@@ -1,0 +1,21 @@
+@media screen and (min-widith:650px){
+    .conteiner{
+        margin-top: 10px;
+    }
+
+    #title{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .login_textbox{
+        height: 150px;
+    
+    
+    }
+    .login_textbox > input{
+        height: 60px;
+    }
+    .login_recuperar{
+        margin-bottom: 20px;
+    }
+}
